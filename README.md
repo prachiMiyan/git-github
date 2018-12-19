@@ -1,2 +1,2 @@
-# git-github
+# git-practice
 this is for practicing github
